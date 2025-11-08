@@ -3,7 +3,7 @@
 
 🚀 Projects  
 - 🧠 [QML-Molecular-Classification](https://github.com/Dr-Sushant/QML-Molecular-Classification) – Quantum-inspired molecular classification (2nd Prize @ QPoland 2025)  
-- 💉 [Anesthesia Drift Detector](https://github.com/Dr-Sushant/Anesthesia-Drift-Detector) – Predicting anesthetic depth using AI  
+- 💉 [Anesthesia Drift Detector](https://github.com/Dr-Sushant/DriftGuard) – Predicting anesthetic depth using AI  
 - 🧬 [HCC Extractor](https://github.com/Dr-Sushant/hcc_extractor_project) – Clinical coding automation for comorbidity detection  
 
 💡 Interests: Quantum Machine Learning · Biomedical AI · Clinical Informatics  
