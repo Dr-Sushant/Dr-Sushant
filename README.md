@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Dr. Sushant Tapase  
-🎓 MTech Biomedical Data Science | MBBS | AI & Quantum Computing in Healthcare  
+👨‍⚕️ Clinician × Biomedical Data Scientist  
+Building clinically grounded ML systems for imaging, risk modeling, and decision support.
+
 
 🚀 Projects  
 - 🧠 [QML-Molecular-Classification](https://github.com/Dr-Sushant/QML-Molecular-Classification) – Quantum-inspired molecular classification (2nd Prize @ QPoland 2025)  
