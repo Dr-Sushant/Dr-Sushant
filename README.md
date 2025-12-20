@@ -14,6 +14,12 @@ Building clinically grounded ML systems for imaging, risk modeling, and decision
   Clinical NLP pipeline for automated risk coding from unstructured medical text.
 
 
+🧠 What I Care About
+
+• Translating clinical ambiguity into machine-readable signals  
+• Evaluating ML models beyond accuracy (drift, safety, bias)  
+• Building AI systems that clinicians can trust—not just demo
+
 
 💡 Interests: Quantum Machine Learning · Biomedical AI · Clinical Informatics  
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/dr-sushant-tapase/)  
