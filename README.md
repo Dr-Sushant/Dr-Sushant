@@ -8,7 +8,7 @@
 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| **HCC Extractor** | Clinical NLP for risk coding from unstructured text | [▶️ Try it](https://colab.research.google.com/github/Dr-Sushant/hcc_extractor_project/blob/main/hcc_demo_colab.ipynb) |
+| Clinical ICD-10 Extractor | Clinical NLP for ICD-10 extraction and HCC risk mapping from clinical notes | [▶️ Live Demo](https://huggingface.co/spaces/Dr-Sushant/hcc-extractor) |
 | **DriftGuard** | Anesthesia depth prediction - IIT JIPMER Award Winner | [📦 GitHub](https://github.com/Dr-Sushant/DriftGuard-Incubate2025) |
 | **Quantum ML** | 2nd Place - QPoland Hackathon 2025 (Team Coordinator) | [📦 GitHub](https://github.com/Dr-Sushant/Quantum-Kernel-Molecular-Classification) |
 
